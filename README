@@ -1,0 +1,1 @@
+Project encapsulates YQL query and very basic PHP consumption. To reduce load on the host server, ideally this would be JS on the client.
